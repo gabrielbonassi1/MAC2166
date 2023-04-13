@@ -1,0 +1,8 @@
+Grade	9.0 / 10.0
+	
+    1- Warning: Variáveis c2 e c1 não foram utilizadas
+
+     Sugiro incluir as opções de compilação, no codeblocks (ou no seu compilador, como 'gcc -Wall'),
+    conforme especificado pelas instruções no Graúna.
+
+    2- (-1.0) Erro de compatibilidade: observe que neste curso as funções deveriam ser declaradas fora da função main principal

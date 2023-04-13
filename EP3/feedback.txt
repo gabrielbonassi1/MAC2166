@@ -1,0 +1,13 @@
+Grade 6.7 / 10.0
+	
+• (-0,2) A saída fica errada para valores de coluna/linha com duas casas.
+
+• (-0,7) É possível marcar mais que o número máximo de marcações.
+
+• (-0,2) Não imprime quantas posições estão marcadas e quantas livres.
+
+• (-0,5) Não aceita as letras A M D (maiúsculas) como entrada.
+
+• (-1,7) Não abre a propagação de zeros e o entorno da maneira adequada.
+
+• Não é necessário o uso de variáveis globais.

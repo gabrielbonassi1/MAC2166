@@ -1,0 +1,6 @@
+Grade	7.0 / 10.0	
+• Atente-se para que para o próximo EP, a saída seja IDÊNTICA a saída dada de exemplo;
+• A variável npalpite é inicializa com 1 o que decorre sempre em 1 palpite a menos do que deveria ser possível; (-1)
+• Entre as linhas 42 e 44, a condição deveria ser ppretos < k, pois caso contrário causará erro em todos os casos exceto k == 4; (-2)
+• Use sempre nomes claros para as variáveis. Não há necessidade de nomes curtos;
+• Comente seu código, poderá ser de extrema importância para os próximos EP's.
